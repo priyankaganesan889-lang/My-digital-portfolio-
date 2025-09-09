@@ -1,0 +1,132 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://priyankaganesan889-lang.github.io/My-digital-portfolio-/
+Subject: Priyanka.G | Portfolio
+Date: Tue, 9 Sep 2025 10:19:47 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--D6A8F2bczWxdBAnGwhV5FxnMQ4IiiQt7g1JUaMeyFV----"
+
+
+------MultipartBoundary--D6A8F2bczWxdBAnGwhV5FxnMQ4IiiQt7g1JUaMeyFV----
+Content-Type: text/html
+Content-ID: <frame-0E1173354BF6ED107206CC1BAB19549E@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://priyankaganesan889-lang.github.io/My-digital-portfolio-/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-b36c0eb3-dcf7-476b-a7ee-caafbfb1e83c@mhtml.blink" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Priyanka.G | Portfolio</title>
+  
+</head>
+<body>
+
+  <button id="toggle-mode">Toggle Dark Mode</button>
+
+  <header>
+    <h1>Priyanka.G</h1>
+    <p>BCA Student at MMES Women's Arts and Science College, Melvisharam</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hello! I'm Priyanka, a passionate student pursuing my Bachelor of Computer Applications (BCA). I'm interested in web development, programming, and learning new technologies to build creative and useful projects.</p>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Bachelor of Computer Applications (BCA)</strong> – MMES Women's Arts and Science College, Melvisharam</li>
+    </ul>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML, CSS, JavaScript</li>
+      <li>C, C++</li>
+      <li>Basic Python</li>
+      <li>MS Office (Word, Excel, PowerPoint)</li>
+      <li>Communication Skills</li>
+      <li>Problem Solving</li>
+    </ul>
+  </section>
+
+  <section id="hobbies">
+    <h2>Hobbies</h2>
+    <ul>
+      <li>Dancing</li>
+      <li>Reading</li>
+      <li>Writing</li>
+      <li>Travelling</li>
+      <li>Listening to Music</li>
+      <li>Cooking</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Personal Portfolio Website</h3>
+      <p>A single-file HTML, CSS, and JavaScript website that showcases my skills and projects. Built to be simple, responsive, and beginner-friendly.</p>
+    </div>
+    <div class="project">
+      <h3>Mini Calculator (JavaScript)</h3>
+      <p>A simple calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and was part of my learning projects.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>You can reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+  </section>
+
+  
+
+</body></html>
+------MultipartBoundary--D6A8F2bczWxdBAnGwhV5FxnMQ4IiiQt7g1JUaMeyFV----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-b36c0eb3-dcf7-476b-a7ee-caafbfb1e83c@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; background: linear-gradient(135deg, rgb(246, 211, 101), rgb(253, 160, 133), rgb(132, 250, 176), rgb(143, 211, 244)) 0% 0% / 400% 400%; animation: 15s ease 0s infinite normal none running gradientBG; color: rgb(51, 51, 51); padding: 20px; transition: background-color 0.3s, color 0.3s; }
+
+@keyframes gradientBG { 
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+header { text-align: center; margin-bottom: 30px; }
+
+header h1 { font-size: 2.5em; color: rgb(44, 62, 80); }
+
+header p { font-size: 1.2em; color: rgb(68, 68, 68); }
+
+section { margin-bottom: 40px; background: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 10px; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 6px; }
+
+h2 { color: rgb(44, 62, 80); margin-bottom: 10px; }
+
+.project { background: rgb(255, 255, 255); padding: 15px; margin-bottom: 10px; border-left: 5px solid rgb(52, 152, 219); box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px; }
+
+.contact a { color: rgb(52, 152, 219); text-decoration: none; }
+
+ul { padding-left: 20px; margin-top: 10px; }
+
+li { margin-bottom: 5px; }
+
+.dark-mode { background: linear-gradient(135deg, rgb(30, 30, 30), rgb(44, 62, 80), rgb(52, 73, 94), rgb(44, 62, 80)) 0% 0% / 400% 400%; color: rgb(238, 238, 238); }
+
+.dark-mode section { background: rgba(30, 30, 30, 0.85); }
+
+.dark-mode .project { background: rgb(44, 44, 44); border-color: rgb(155, 89, 182); }
+
+.dark-mode h2, .dark-mode header h1 { color: rgb(243, 156, 18); }
+
+#toggle-mode { position: fixed; top: 20px; right: 20px; padding: 10px 15px; background-color: rgb(52, 152, 219); color: white; border: none; border-radius: 5px; cursor: pointer; }
+------MultipartBoundary--D6A8F2bczWxdBAnGwhV5FxnMQ4IiiQt7g1JUaMeyFV------
